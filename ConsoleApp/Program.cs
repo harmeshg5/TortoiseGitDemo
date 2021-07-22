@@ -12,5 +12,18 @@ namespace ConsoleApp
         {
             string s = "hello";
         }
+
+
+
+        static void Main2(string[] args)
+        {
+            string s = "hello";
+        }
+
+
+        static void Main3(string[] args)
+        {
+            string s = "hello";
+        }
     }
 }
